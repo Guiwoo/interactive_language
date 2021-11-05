@@ -25,3 +25,9 @@
    | tension: Controls speed. Default 40.                  |
    | speed: Controls speed of the animation. Default 12.   |
    | bounciness: Controls bounciness. Default 8.           |
+
+   | 3. Interpolation                              |
+   | --------------------------------------------- |
+   | 무언가를 대체할떄 300 을 1 로 ?               |
+   | input , output 항상 같은 수의 갯수를 받아야함 |
+   | 그냥 함수 같음 y = 2x 이런느낌                |
